@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="JMETALHOME"/>
+	<classpathentry kind="src" path="metaheuristicsConf"/>
+	<classpathentry kind="src" path="jsOptimizer"/>
+	<classpathentry kind="lib" path="metaheuristicsConf/JaamSim.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
