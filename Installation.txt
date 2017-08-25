@@ -1,0 +1,7 @@
+1. Download the JSOptimizer folder
+2. Add it to eclipse:
+http://stackoverflow.com/questions/3924229/adding-existing-project-folders-to-the-project-explorer-in-eclipse
+3. Download the appropriate SWT Library for your Operating System
+4. Add it to eclipse: https://www.eclipse.org/swt/eclipse.php
+5. For configuring the graphic components, install windowsBuilder
+6. Add metaheuristicsConf to the path (Properties -> Java Build Path -> Source -> Add Folder...)
